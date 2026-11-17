@@ -1,0 +1,1 @@
+{"expo":{"name":"GlucoBuddy","slug":"glucobuddy","scheme":"glucobuddy","version":"2.1.0","orientation":"portrait","userInterfaceStyle":"light","ios":{"supportsTablet":true,"bundleIdentifier":"com.glucobuddy.companion"},"android":{"package":"com.glucobuddy.companion","permissions":["POST_NOTIFICATIONS"]},"plugins":["expo-notifications"]}}
