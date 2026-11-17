@@ -1,6 +1,18 @@
 # GlucoBuddy
 
-GlucoBuddy is a diabetes support prototype by Juliana Rivera Camacho. It brings recurring tasks into one place, including medication logging, supply tracking, recipes, and a wishlist.
+<img src="glucobuddy-case-study.png" alt="GlucoBuddy V2.1 project case study with a mobile design mockup, core features, and iPhone testing status" width="650">
+
+
+
+GlucoBuddy is a diabetes care companion prototype designed to make everyday routines easier to organize. From the home dashboard, users can see which medications they’ve marked as taken and which supplies are running low. They can set daily medication reminders, log or undo dose entries, review their dose history, and track supplies such as sensors, test strips, and needles. Stock estimates based on typical daily use help users plan when to reorder, and they can mark orders as placed or received.
+
+The app also includes Yummy Book, a recipe scrapbook with optional carbohydrate notes, and Discover, a wishlist for diabetes accessories. A hedgehog mascot changes poses across screens and celebrates when the day’s medication checklist is complete.
+
+The V2.1 mobile prototype is built with React Native and Expo and saves entries on the device. The repository also includes a browser-based prototype.
+
+
+
+
 
 | Version | Source | Stack |
 | --- | --- | --- |
@@ -26,11 +38,6 @@ GlucoBuddy is a diabetes support prototype by Juliana Rivera Camacho. It brings 
 
 The project case study records **20 reported passing manual checks**, including dashboard navigation, marking and undoing doses, history persistence after restart, and stock and order workflows. Mascot celebrations, notification delivery and cancellation, and opening external product links still need verification.
 
-## Project case study
-
-The case study shows the project goals, core features, and iPhone testing status. The phone screen is a design mockup.
-
-<img src="glucobuddy-case-study.png" alt="GlucoBuddy V2.1 project case study with a mobile design mockup, core features, and iPhone testing status" width="650">
 
 ## Try the web prototype
 
